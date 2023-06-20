@@ -20,6 +20,7 @@ I am interested in collaborating on projects related to frontend development and
 If you would like to get in touch with me for project collaboration or simply to connect, you can reach me through the following channels:
 
 Email: zhearlix@outlook.com
+
 GitHub: pazrojasr
 Feel free to visit my GitHub profile to learn more about my projects and contributions. I am excited to connect with fellow developers and learn from their experiences!
 
