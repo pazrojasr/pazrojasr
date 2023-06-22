@@ -23,5 +23,3 @@ Email: zhearlix@outlook.com
 
 GitHub: pazrojasr
 Feel free to visit my GitHub profile to learn more about my projects and contributions. I am excited to connect with fellow developers and learn from their experiences!
-
-I hope you like this example README.md. If there's anything you would like to modify or add, please let me know. I'm here to help!
